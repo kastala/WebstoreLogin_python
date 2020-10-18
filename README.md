@@ -8,4 +8,5 @@ Test automatuon
 - Download Pycharm
 - Download the project TestWebsitelogin and import to Pycharm
 - Run all_testsuites.py file to execute all tests or python all_testsuites.py from terminal
+- logging is saved under /Reports/loggingfile.py
 
