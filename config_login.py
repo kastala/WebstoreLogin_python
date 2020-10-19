@@ -6,7 +6,7 @@ ke = {
         'passwd' : 'abcde',
         'invalid_email' : '87506@cognizant.com',
         'invalid_passwd' : 'abcd',
-        'email_create' : '56789@gmail.com',
+        'email_create' : '6789@gmail.com',
         'first_name' : 'him',
         'last_name' : 'kas',
         'password' : 'abcde',
